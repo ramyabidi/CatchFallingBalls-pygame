@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="catch_falling_balls_banner.png" alt="Catch Falling Balls" width="600px">
+  <img src="https://i.ibb.co/4sHQPxD/Screenshot-from-2023-08-03-15-46-16-1.png" alt="Catch Falling Balls" width="600px">
 </div>
 
 # Catch Falling Balls Game
@@ -52,10 +52,12 @@ python game2.py
 ## 🎮 Gameplay Screenshots
 
 **Version 1**
-![Gameplay Screenshot - Version 1](screenshot_v1.png)
+
+![Gameplay Screenshot - Version 1](https://i.ibb.co/6Pm1bnX/Screenshot-from-2023-08-04-11-46-20.png)
 
 **Version 2**
-![Gameplay Screenshot - Version 2](screenshot_v2.png)
+
+![Gameplay Screenshot - Version 2](https://i.ibb.co/wYjmH1q/Screenshot-from-2023-08-04-11-47-44.png)
 
 ## 📄 License
 
